@@ -2,6 +2,8 @@
 
 ![Imagen de Perfil](https://github.com/JonasGomezG/JonasGomezG/blob/main/assets/perfil.png?raw=true)
 
+Soy un alumno de _1º DAM_ en la escuela de IMF.
+
 <!--
 **JonasGomezG/JonasGomezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
