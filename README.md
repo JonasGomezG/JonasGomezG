@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jonás Gómez García
+
+![Imagen de Perfil](https://github.com/JonasGomezG/JonasGomezG/blob/main/assets/perfil.png?raw=true)
 
 <!--
 **JonasGomezG/JonasGomezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
